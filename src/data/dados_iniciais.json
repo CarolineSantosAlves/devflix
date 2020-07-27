@@ -1,33 +1,33 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Por onde Começar",
+      "link": "/",
+      "cor": "#3700b3",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Para o dev iniciante",
+        "url": "#"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Conhecimentos Básicos para Iniciantes em Programação #inicioProgramacao",
+          "url": "https://www.youtube.com/watch?v=sx4hAHhO9CY&t=910s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Introdução a Algoritmos",
+          "url": "https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV #LogicaProgramacao"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Base numérica",
+          "url": "https://www.youtube.com/watch?v=J5q7s7l2EuI&list=PLHz_AreHm4dlmeSpWzJGWOmFnVF5k_IYi&index=2&t=0s"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Programação orientada a objeto",
+          "url": "https://www.youtube.com/watch?v=KlIL63MeyMY&t=279s"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Padrão MVC (Model - View - Controller)",
+          "url": "https://www.youtube.com/watch?v=mMDt9g7bMjk&list=PLdPPE0hUkt0qae3Css66CheWAhFjPdDnK&index=2"
         },
         {
           "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
@@ -45,7 +45,7 @@
     },
     {
       "titulo": "Back End",
-      "cor": "#00C86F",
+      "cor": "#03dac6",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
@@ -74,86 +74,86 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Carreira",
+      "cor": "#3700b3",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Compartilhamento de experiência de quem já atua na área",
+        "url": "/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Idade: Estou Velho para Ser Programador?",
+          "url": "https://www.youtube.com/watch?v=JhdgTTq8UKA&list=PLVc5bWuiFQ8GoHrRiLH58x0GyM-OZdZLx&index=6&t=0s"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Como montar um plano de carreira",
+          "url": "https://www.youtube.com/watch?v=xDOj_tazJl4&t=1s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Comece a Trabalhar SEM Experiência",
+          "url": "https://www.youtube.com/watch?v=llBJb_QT6ho&t=314s"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Programação: Devo estudar o que Gosto ou focar no que o Mercado está pedindo?",
+          "url": "https://www.youtube.com/watch?v=UCkzBjlank8"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Devinho",
+      "cor": "#03dac6",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Spotify Clone #1 - Flutter",
+          "url": "https://www.youtube.com/watch?v=4mjsGbuwkjw"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "SpriteBox #01 - Fase do Jardim",
+          "url": "https://www.youtube.com/watch?v=H6vgqHm3F6Y&list=PLHz_AreHm4dnKcDm6jdShZGNvHBlj7mHz&index=3&t=0s"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Google e Programação para Crianças",
+          "url": "https://www.youtube.com/watch?v=6aDafdXJWp0"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Ao infinito e além! Programando desde cedo - Programadores Mirins EP 1",
+          "url": "https://www.youtube.com/watch?v=_2VufGXEDAM"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Diversos",
+      "cor": "#3700b3",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Temas diversos",
+        "url": "/"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Microservices com Michelli Brito // Live #36Rodrigo Branas",
+          "url": "https://www.youtube.com/watch?v=3A6aqYuChWo&t=763s"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Business Intelligence com Power BI",
+          "url": "https://www.youtube.com/watch?v=sJnuOlfokLQ&t=1822s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "C (A Linguagem de Programação que é uma MÃE)",
+          "url": "https://www.youtube.com/watch?v=6mUCcsnCn08"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Programar Mais Rápido e Ser Mais Produtivo no Visual Studio Code (VSCode)",
+          "url": "https://www.youtube.com/watch?v=FCC2GbStmfc"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Telefonando pelo Node.js",
+          "url": "https://www.youtube.com/watch?v=M_wm7s-Lggk&list=PLQCmSnNFVYnTiQXZ0WhyE2TKBk05S3kTT&index=3&t=0s"
         }
       ]
     },
     {
       "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "cor": "#03dac6",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
