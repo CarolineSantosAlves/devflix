@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Inicio",
+            "descricao": "Para o dev iniciante",
+            "cor" : "#cbd1ff"
+        },
+        {
+            "id": 2,
+            "nome": "Back End",
+            "descricao": "por trás dos panos",
+            "cor" : "#cbd1ff"
+        }
+    ]
+}
