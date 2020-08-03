@@ -1,16 +1,234 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "nome": "Inicio",
-            "descricao": "Para o dev iniciante",
-            "cor" : "#cbd1ff"
-        },
-        {
-            "id": 2,
-            "nome": "Back End",
-            "descricao": "por trás dos panos",
-            "cor" : "#cbd1ff"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Por onde Começar",
+      "cor": "#3700b3",
+      "link_extra": {
+        "text": "Para o dev iniciante",
+        "url": "#"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Back End",
+      "cor": "#03dac6",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Carreira",
+      "cor": "#3700b3",
+      "link_extra": {
+        "text": "Compartilhamento de experiência de quem já atua na área",
+        "url": ""
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Devinho",
+      "cor": "#03dac6",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Diversos",
+      "cor": "#3700b3",
+      "link_extra": {
+        "text": "Temas diversos",
+        "url": ""
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Aprendendo a aprender Tecnologia",
+      "cor": "#03dac6",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Conhecimentos Básicos para Iniciantes em Programação #inicioProgramacao",
+      "url": "https://www.youtube.com/watch?v=sx4hAHhO9CY&t=910s"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Introdução a Algoritmos",
+      "url": "https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Base numérica",
+      "url": "https://www.youtube.com/watch?v=J5q7s7l2EuI&list=PLHz_AreHm4dlmeSpWzJGWOmFnVF5k_IYi&index=2&t=0s"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Programação orientada a objeto",
+      "url": "https://www.youtube.com/watch?v=KlIL63MeyMY&t=279s"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Padrão MVC (Model - View - Controller)",
+      "url": "https://www.youtube.com/watch?v=mMDt9g7bMjk&list=PLdPPE0hUkt0qae3Css66CheWAhFjPdDnK&index=2"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Novidades do Angular v9",
+      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Base para aprender os frameworks",
+      "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+      "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+      "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+      "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "API: Dicionário do Programador",
+      "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Usando Git Direito",
+      "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "Idade: Estou Velho para Ser Programador?",
+      "url": "https://www.youtube.com/watch?v=JhdgTTq8UKA&list=PLVc5bWuiFQ8GoHrRiLH58x0GyM-OZdZLx&index=6&t=0s"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "Como montar um plano de carreira",
+      "url": "https://www.youtube.com/watch?v=xDOj_tazJl4&t=1s"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Comece a Trabalhar SEM Experiência",
+      "url": "https://www.youtube.com/watch?v=llBJb_QT6ho&t=314s"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Programação: Devo estudar o que Gosto ou focar no que o Mercado está pedindo?",
+      "url": "https://www.youtube.com/watch?v=UCkzBjlank8"
+    },
+    {
+      "id": 16,
+      "categoriaId": 4,
+      "titulo": "Spotify Clone #1 - Flutter",
+      "url": "https://www.youtube.com/watch?v=4mjsGbuwkjw"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "SpriteBox #01 - Fase do Jardim",
+      "url": "https://www.youtube.com/watch?v=H6vgqHm3F6Y&list=PLHz_AreHm4dnKcDm6jdShZGNvHBlj7mHz&index=3&t=0s"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Google e Programação para Crianças",
+      "url": "https://www.youtube.com/watch?v=6aDafdXJWp0"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Ao infinito e além! Programando desde cedo - Programadores Mirins EP 1",
+      "url": "https://www.youtube.com/watch?v=_2VufGXEDAM"
+    },
+    {
+      "id": 20,
+      "categoriaId": 5,
+      "titulo": "Microservices com Michelli Brito // Live #36Rodrigo Branas",
+      "url": "https://www.youtube.com/watch?v=3A6aqYuChWo&t=763s"
+    },
+    {
+      "id": 21,
+      "categoriaId": 5,
+      "titulo": "Business Intelligence com Power BI",
+      "url": "https://www.youtube.com/watch?v=sJnuOlfokLQ&t=1822s"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "C (A Linguagem de Programação que é uma MÃE)",
+      "url": "https://www.youtube.com/watch?v=6mUCcsnCn08"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Programar Mais Rápido e Ser Mais Produtivo no Visual Studio Code (VSCode)",
+      "url": "https://www.youtube.com/watch?v=FCC2GbStmfc"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Telefonando pelo Node.js",
+      "url": "https://www.youtube.com/watch?v=M_wm7s-Lggk&list=PLQCmSnNFVYnTiQXZ0WhyE2TKBk05S3kTT&index=3&t=0s"
+    },
+    {
+      "titulo": "video padrão",
+      "url": "https://www.youtube.com/watch?v=HRw1Dcxxu2k",
+      "categoriaId": 1,
+      "id": 25
+    },
+    {
+      "titulo": "video padrão",
+      "url": "https://www.youtube.com/watch?v=HRw1Dcxxu2k",
+      "categoriaId": 1,
+      "id": 26
+    },
+    {
+      "titulo": "",
+      "url": "",
+      "categoriaId": 1,
+      "id": 27
+    }
+  ]
 }
